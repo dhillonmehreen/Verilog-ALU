@@ -1,13 +1,13 @@
 
-# 🔧 8-bit ALU in Verilog
+#  8-bit ALU in Verilog
 
-## 📌 Overview
+##  Overview
 This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog.  
 It performs a variety of arithmetic, logical, shift, and comparison operations based on opcode input.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 ### Arithmetic Operations
 - ADD
@@ -35,14 +35,14 @@ It performs a variety of arithmetic, logical, shift, and comparison operations b
 
 ---
 
-## 🚩 Flags
+##  Flags
 - Carry Flag
 - Overflow Flag
 - Zero Flag
 
 ---
 
-## 🧪 Simulation
+##  Simulation
 The design was tested using a Verilog testbench and verified using waveform analysis.
 
 ## 📊 Output Waveform
@@ -50,19 +50,19 @@ The design was tested using a Verilog testbench and verified using waveform anal
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Verilog
 - EDA Playground
 - EPWave
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 design.v // ALU design
 testbench.v // Testbench
 waveform.png // Simulation output
 
 ___
 
-## 👩‍💻 Author
+##  Author
 Mehreen Dhillon
